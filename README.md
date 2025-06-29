@@ -20,7 +20,7 @@ Tested using Postman.
 - `DELETE /users/<user_id>` → Delete user
 
 🔄 Sample JSON Body for POST/PUT
-```json
+json
 {
   "id": "1",
   "name": "Komal Suthar",
