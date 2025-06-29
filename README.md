@@ -19,8 +19,7 @@ Tested using Postman.
 - `PUT /users/<user_id>` → Update user
 - `DELETE /users/<user_id>` → Delete user
 
-🔄 Sample JSON Body for POST/PUT
-json
+🔄 Sample JSON Body for POST/PUT 
 {
   "id": "1",
   "name": "Komal Suthar",
