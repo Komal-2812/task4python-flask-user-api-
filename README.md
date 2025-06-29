@@ -20,6 +20,7 @@ Tested using Postman.
 - `DELETE /users/<user_id>` → Delete user
 
 🔄 Sample JSON Body for POST/PUT 
+
 {
   "id": "1",
   "name": "Komal Suthar",
@@ -27,10 +28,14 @@ Tested using Postman.
 }
 
 📸 Testing
+
 All endpoints were tested using Postman with proper headers:
+
 Content-Type: application/json
 
 📁 How to Run
+
 pip install flask
+
 python app.py
 
