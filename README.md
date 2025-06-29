@@ -32,10 +32,12 @@ Tested using Postman.
 📸 Testing
 
 All endpoints were tested using Postman with proper headers:
+
 Content-Type: application/json
 
 📁 How to Run
 
 pip install flask
+
 python app.py
 
