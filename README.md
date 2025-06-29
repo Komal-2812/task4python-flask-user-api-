@@ -23,19 +23,19 @@ Tested using Postman.
 
 {
   "id": "1",
+  
   "name": "Komal Suthar",
+  
   "email": "komal@example.com"
 }
 
 📸 Testing
 
 All endpoints were tested using Postman with proper headers:
-
 Content-Type: application/json
 
 📁 How to Run
 
 pip install flask
-
 python app.py
 
